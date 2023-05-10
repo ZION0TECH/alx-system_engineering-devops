@@ -1,0 +1,2 @@
+#!/bin/bash
+lm -ss /bim/ls __ls__
